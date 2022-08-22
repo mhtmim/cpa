@@ -1,0 +1,1 @@
+9999999999a:3:{s:5:"title";s:20:"This is a test title";s:4:"desc";s:190:"When I create a request, there's a validation that checks the user. if the field user_id exists (i.e if user_id exists in the users table), then there's no need to require email and password";s:3:"mid";s:5:"lb6QA";}
